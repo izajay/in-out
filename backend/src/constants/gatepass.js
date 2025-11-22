@@ -1,10 +1,9 @@
 const PASS_STAGES = {
-   WARDEN: "warden",
   CLASS_INCHARGE: "class_incharge",
   HOD: "hod",
   DEAN: "dean",
   VC: "vc",
- 
+  WARDEN: "warden",
   COMPLETED: "completed",
 };
 
